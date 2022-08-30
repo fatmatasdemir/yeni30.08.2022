@@ -15,5 +15,6 @@ public class github {
         //if(Arrays.toString(kelime).substring(i,i+1).contains(",")){
            // kelimeSayisi++;
 
+     // VERI ALMA GITHUB DAN 
 
 }
