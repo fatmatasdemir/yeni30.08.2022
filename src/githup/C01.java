@@ -15,6 +15,7 @@ public class C01 {
     // kelimeSayisi++;
 
     // kelimeSayisi++;
+    //MIHRICAN GITHUP
 }
 //mihrican master da
 //mihrican masterda 2
