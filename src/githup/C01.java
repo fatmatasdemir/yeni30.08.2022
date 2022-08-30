@@ -17,3 +17,5 @@ public class C01 {
     // kelimeSayisi++;
     //MIHRICAN GITHUP
 }
+//mihrican master da
+//mihrican masterda 2
