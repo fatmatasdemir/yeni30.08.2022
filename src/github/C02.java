@@ -6,7 +6,7 @@ public class C02 {
         System.out.println("mihrican ve fatma github calisiyor.. ");
     }
 
-
+ //System.out.println("mihrican ve fatma github calisiyor.. "
 
 
 }
