@@ -16,3 +16,5 @@ public class C01 {
 
     // kelimeSayisi++;
 }
+//mihrican master da
+
