@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 public class C01 {
 
+    // GITHUBTAN VERI ALMA 
+    
+      
     Scanner scanner = new Scanner(System.in);
     //  System.out.println("lutfen bir cumle girin");
 
